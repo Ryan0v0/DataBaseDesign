@@ -40,10 +40,12 @@
 
 2. #### 运行方法:
 
+   平台:  macOS Mojave 10.14.5
+
    ##### 准备：
 
    1. 安装virtualenv:
-      `pip install virtualenv`
+      `pip3 install virtualenv`
    2. 创建虚拟环境:
       `virtualenv venv`
    3. 进入虚拟环境:
@@ -55,9 +57,9 @@
 
    ##### 运行：
 
-   1. 更新数据库：`python app.py db upgrade`
-   2. 生成管理员用户：`python app.py init`
-   3. 运行：`python app.py runserver`
+   1. 更新数据库：`python3 app.py db upgrade`
+   2. 生成管理员用户：`python3 app.py init`
+   3. 运行：`python3 app.py runserver`
 
    ##### 初始管理员账户：
 
@@ -68,4 +70,6 @@
 
    
 
-3. #### 效果预览![view](/Users/zhaowanru/class/DBMS/flask-demo/static/view.jpg)
+3. #### 效果预览
+
+![view](/Users/zhaowanru/class/DBMS/task1/static/view.jpg)
