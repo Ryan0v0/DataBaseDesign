@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudentBMS
 ## 准备：
 1. 安装virtualenv:
@@ -30,3 +31,7 @@
 ## 预览
 
 ![](https://github.com/xiongsyao/StudentBMS/blob/master/static/view.jpg)
+=======
+# DataBaseDesign
+基于Web的考生信息查询系统
+>>>>>>> c69277f9b09ca19747cd0a29fe4d4a945844f7b0
